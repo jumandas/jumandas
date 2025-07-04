@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there, I’m Juman 👨‍💻
 
 I'm **Juman Das** — Cloud Engineer | Software Developer  
 I enjoy building scalable web apps with clean code and cloud-native architecture.
