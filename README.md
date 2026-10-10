@@ -1,6 +1,6 @@
 ## Hey there 👨‍💻
 
-I'm **Juman** — currently working as a Senior Cloud Engineer at LTIMindtree.  
+I'm **Juman** — Currently doing my Masters in Computer Science and was working as a Senior Cloud Engineer at LTIMindtree.  
 I enjoy building scalable web apps with clean code and cloud-native architecture.
 
 📌 Check out my [Portfolio Website](https://portfolio-juman.vercel.app/)
